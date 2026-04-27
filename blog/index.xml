@@ -5,12 +5,261 @@
     <link>https://example.com/blog/</link>
       <atom:link href="https://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu_da05098ef60dc2e7.png</url>
       <title>Blog</title>
       <link>https://example.com/blog/</link>
     </image>
+    
+    <item>
+      <title>⚡️ Работа с библиографией</title>
+      <link>https://example.com/blog/post-bibliography/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blog/post-bibliography/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#основные-форматы-библиографических-ссылок&#34;&gt;Основные форматы библиографических ссылок&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#инструменты-для-управления-библиографией&#34;&gt;Инструменты для управления библиографией&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#рабочий-процесс-с-zotero-за-5-минут&#34;&gt;Рабочий процесс с Zotero (за 5 минут)&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#1-установка-и-настройка&#34;&gt;1. Установка и настройка&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+&lt;div class=&#34;callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-emerald-100 dark:bg-emerald-900 border-emerald-500&#34; 
+     data-callout=&#34;tip&#34; 
+     data-callout-metadata=&#34;&#34;&gt;
+  &lt;span class=&#34;callout-icon pr-3 pt-1 text-emerald-600 dark:text-emerald-300&#34;&gt;
+    &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M12 18v-5.25m0 0a6 6 0 0 0 1.5-.189m-1.5.189a6 6 0 0 1-1.5-.189m3.75 7.478a12.1 12.1 0 0 1-4.5 0m3.75 2.383a14.4 14.4 0 0 1-3 0M14.25 18v-.192c0-.983.658-1.823 1.508-2.316a7.5 7.5 0 1 0-7.517 0c.85.493 1.509 1.333 1.509 2.316V18&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+  &lt;div class=&#34;callout-content dark:text-neutral-300&#34;&gt;
+    &lt;div class=&#34;callout-title font-semibold mb-1&#34;&gt;Tip&lt;/div&gt;
+    &lt;div class=&#34;callout-body&#34;&gt;&lt;p&gt;&lt;strong&gt;Библиография - это не просто список источников в конце статьи.&lt;/strong&gt; Это способ показать, на чьих плечах вы стоите, и дать читателю дорожную карту для погружения в тему.&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Академическая честность&lt;/strong&gt; – Чужие идеи должны быть атрибутированы. Плагиат убивает репутацию.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Воспроизводимость&lt;/strong&gt; – Читатель может найти и проверить ваши источники.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Профессиональный рост&lt;/strong&gt; – Хорошая библиография показывает, что вы в курсе современных исследований.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Автоматизация&lt;/strong&gt; – Правильные инструменты избавляют от ручного форматирования ссылок.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;основные-форматы-библиографических-ссылок&#34;&gt;Основные форматы библиографических ссылок&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Формат&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Где используется&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Пример оформления&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;ГОСТ Р 7.0.100-2018&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Россия, СНГ (дипломы, диссертации, статьи)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Пыхтеева М.И. Название книги. М.: Наука, 2024. 300 с.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;APA (7th ed.)&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Психология, педагогика, социология&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Smith, J. (2024). Title of the book. Publisher.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;MLA (9th ed.)&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Филология, литературоведение, искусство&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Smith, John. &lt;em&gt;Title of the Book&lt;/em&gt;. Publisher, 2024.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Chicago / Turabian&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;История, искусство, издательское дело&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Smith, John. &lt;em&gt;Title of the Book&lt;/em&gt;. Chicago: Publisher, 2024.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;IEEE&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Технические науки, IT, инженерия&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;[1] J. Smith, &amp;ldquo;Title of article,&amp;rdquo; &lt;em&gt;Journal Name&lt;/em&gt;, vol. 10, no. 2, pp. 10-20, 2024.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;BibTeX / BibLaTeX&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;LaTeX, Overleaf, научные статьи&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;code&gt;@book{smith2024, author={John Smith}, title={Title}, year={2024}}&lt;/code&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;инструменты-для-управления-библиографией&#34;&gt;Инструменты для управления библиографией&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Инструмент&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Платформа&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Особенность&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Zotero&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Win/Mac/Linux&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Бесплатный, открытый код, отличные плагины для браузера и Word/LO&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Mendeley&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Win/Mac/Linux&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Бесплатный, хорошая социальная сеть учёных, PDF-аннотации&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;EndNote&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Win/Mac&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Платный, мощный, стандарт в крупных университетах&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;JabRef&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Java (везде)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Бесплатный, лучший для работы с BibTeX/BibLaTeX&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Paperpile&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Веб, Google Docs&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Платный по подписке, идеален для экосистемы Google&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+&lt;div class=&#34;callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-blue-100 dark:bg-blue-900 border-blue-500&#34; 
+     data-callout=&#34;note&#34; 
+     data-callout-metadata=&#34;&#34;&gt;
+  &lt;span class=&#34;callout-icon pr-3 pt-1 text-blue-600 dark:text-blue-300&#34;&gt;
+    &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m16.862 4.487l1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8l.8-2.685a4.5 4.5 0 0 1 1.13-1.897zm0 0L19.5 7.125&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+  &lt;div class=&#34;callout-content dark:text-neutral-300&#34;&gt;
+    &lt;div class=&#34;callout-title font-semibold mb-1&#34;&gt;Note&lt;/div&gt;
+    &lt;div class=&#34;callout-body&#34;&gt;&lt;p&gt;&lt;strong&gt;Zotero — золотой стандарт для начинающих.&lt;/strong&gt; Бесплатно, просто, есть всё необходимое. Синхронизация между компьютерами, плагин в браузер (одним кликом сохраняет статью с сайта), экспорт в любой формат.&lt;/p&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;рабочий-процесс-с-zotero-за-5-минут&#34;&gt;Рабочий процесс с Zotero (за 5 минут)&lt;/h2&gt;
+&lt;h3 id=&#34;1-установка-и-настройка&#34;&gt;1. Установка и настройка&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Скачать с официального сайта&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# zotero.org/download&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# После установки:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# 1. Зарегистрироваться для синхронизации&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# 2. Установить плагин в браузер (Chrome/Firefox)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# 3. Установить плагин для Word/LibreOffice (делается из Zotero)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>⚡️ ЭТАП 3 &#34;Пост по прошедшей неделе&#34;</title>
+      <link>https://example.com/blog/weekend-step3/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/blog/weekend-step3/</guid>
+      <description>&lt;h2 id=&#34;что-сделали-на-прошлой-недел-этап-3&#34;&gt;Что сделали на прошлой недел (этап 3)&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Этап&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Что делали&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Добавили информацию о навыках (Skills)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Добавили информацию об опыте (Experience)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;3&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Добавили информацию о достижениях (Awards)&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>⚡️ Легковесные языки разметки.</title>
@@ -1215,7 +1464,7 @@ This Hugging Face dataset is a mirror. For the …
 
 
 
-&lt;div id=&#34;chart-768435192&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-674593821&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -1233,7 +1482,7 @@ This Hugging Face dataset is a mirror. For the …
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-768435192&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-674593821&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
