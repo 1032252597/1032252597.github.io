@@ -173,43 +173,17 @@
       <link>https://example.com/publications/selectel-linux-admin/</link>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
       <guid>https://example.com/publications/selectel-linux-admin/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;О курсе:&lt;/strong&gt; Практический онлайн-курс 
- от Академии Selectel на базе серверной ОС SelectOS 2.0 (Debian Linux). Курс пройден полностью (все 11 модулей и итоговый тест 17/17).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Пройденные разделы курса:&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;h2 id=&#34;о-курсе&#34;&gt;О курсе&lt;/h2&gt;
+&lt;p&gt;Практический онлайн-курс 
+ от Академии Selectel на базе серверной ОС SelectOS 2.0 (Debian Linux). Все 11 модулей, практические задания и итоговый тест (17/17) пройдены со 100%-ным результатом.&lt;/p&gt;
+&lt;h2 id=&#34;пройденные-разделы-курса&#34;&gt;Пройденные разделы курса&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Раздел 1:&lt;/strong&gt; Введение в системное администрирование; Базовые команды Linux; Файлы и каталоги.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Раздел 2:&lt;/strong&gt; Получение справки; Управление пользователями; Управление доступом; Управление процессами.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Раздел 3:&lt;/strong&gt; Настройка сети и SSH; Управление пакетами; Управление логами; Контейнеризация (Podman).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Сертификат:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-full&#34; &gt;
-          &lt;img alt=&#34;Сертификат о прохождении курса «Системный администратор Linux с нуля»&#34; 
-               srcset=&#34;https://example.com/publications/selectel-linux-admin/featured_hu_5b7c312f66fe6658.webp 320w, https://example.com/publications/selectel-linux-admin/featured_hu_7626f77b8292411a.webp 480w, https://example.com/publications/selectel-linux-admin/featured_hu_da078fa1de3c4ca.webp 640w&#34;
-               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://example.com/publications/selectel-linux-admin/featured_hu_5b7c312f66fe6658.webp&#34;
-               width=&#34;640&#34;
-               height=&#34;640&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
+&lt;h2 id=&#34;сертификат&#34;&gt;Сертификат&lt;/h2&gt;
+&lt;iframe src=&#34;certificate.pdf&#34; width=&#34;100%&#34; height=&#34;780px&#34; style=&#34;border: 1px solid #d8e2ef; border-radius: 8px;&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;
 &lt;/p&gt;
 </description>
@@ -2207,7 +2181,7 @@ This Hugging Face dataset is a mirror. For the …
 
 
 
-&lt;div id=&#34;chart-981645273&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-817925436&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -2225,7 +2199,7 @@ This Hugging Face dataset is a mirror. For the …
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-981645273&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-817925436&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
