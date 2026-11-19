@@ -5,7 +5,7 @@
     <link>https://example.com/publication_types/article/</link>
       <atom:link href="https://example.com/publication_types/article/index.xml" rel="self" type="application/rss+xml" />
     <description>Article</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Nov 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu_da05098ef60dc2e7.png</url>
       <title>Article</title>
@@ -13,28 +13,20 @@
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://example.com/publications/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publications/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my 
- on LLMs.&lt;/p&gt;
-
-
-
-  
-  
-  
-  
-  
-
-
-
-
-
-  
-  
-  
+      <title>Курс «Системный администратор Linux с нуля» (Академия Selectel)</title>
+      <link>https://example.com/publications/selectel-linux-admin/</link>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publications/selectel-linux-admin/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;О курсе:&lt;/strong&gt; Практический онлайн-курс 
+ от Академии Selectel на базе серверной ОС SelectOS 2.0 (Debian Linux). Курс пройден полностью (все 11 модулей и итоговый тест 17/17).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Пройденные разделы курса:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Раздел 1:&lt;/strong&gt; Введение в системное администрирование; Базовые команды Linux; Файлы и каталоги.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Раздел 2:&lt;/strong&gt; Получение справки; Управление пользователями; Управление доступом; Управление процессами.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Раздел 3:&lt;/strong&gt; Настройка сети и SSH; Управление пакетами; Управление логами; Контейнеризация (Podman).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Сертификат:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
 
 
 
@@ -49,26 +41,21 @@
 
 
 
-  
-  
-  
-  
 
-
-&lt;div class=&#34;callout flex px-4 py-3 mb-6 rounded-md border-l-4 bg-blue-100 dark:bg-blue-900 border-blue-500&#34; 
-     data-callout=&#34;note&#34; 
-     data-callout-metadata=&#34;&#34;&gt;
-  &lt;span class=&#34;callout-icon pr-3 pt-1 text-blue-600 dark:text-blue-300&#34;&gt;
-    &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m16.862 4.487l1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L6.832 19.82a4.5 4.5 0 0 1-1.897 1.13l-2.685.8l.8-2.685a4.5 4.5 0 0 1 1.13-1.897zm0 0L19.5 7.125&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt;
-  &lt;div class=&#34;callout-content dark:text-neutral-300&#34;&gt;
-    &lt;div class=&#34;callout-title font-semibold mb-1&#34;&gt;Note&lt;/div&gt;
-    &lt;div class=&#34;callout-body&#34;&gt;&lt;p&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/p&gt;&lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
-.&lt;/p&gt;
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Сертификат о прохождении курса «Системный администратор Linux с нуля»&#34; 
+               srcset=&#34;https://example.com/publications/selectel-linux-admin/featured_hu_5b7c312f66fe6658.webp 320w, https://example.com/publications/selectel-linux-admin/featured_hu_7626f77b8292411a.webp 480w, https://example.com/publications/selectel-linux-admin/featured_hu_da078fa1de3c4ca.webp 640w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://example.com/publications/selectel-linux-admin/featured_hu_5b7c312f66fe6658.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;640&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
 </description>
     </item>
     

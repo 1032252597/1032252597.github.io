@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Системное Администрирование | </title>
+    <link>https://example.com/tags/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D0%BE%D0%B5-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</link>
+      <atom:link href="https://example.com/tags/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D0%BE%D0%B5-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+    <description>Системное Администрирование</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Nov 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_da05098ef60dc2e7.png</url>
+      <title>Системное Администрирование</title>
+      <link>https://example.com/tags/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BD%D0%BE%D0%B5-%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/</link>
+    </image>
+    
+    <item>
+      <title>Курс «Системный администратор Linux с нуля» (Академия Selectel)</title>
+      <link>https://example.com/publications/selectel-linux-admin/</link>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publications/selectel-linux-admin/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;О курсе:&lt;/strong&gt; Практический онлайн-курс 
+ от Академии Selectel на базе серверной ОС SelectOS 2.0 (Debian Linux). Курс пройден полностью (все 11 модулей и итоговый тест 17/17).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Пройденные разделы курса:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Раздел 1:&lt;/strong&gt; Введение в системное администрирование; Базовые команды Linux; Файлы и каталоги.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Раздел 2:&lt;/strong&gt; Получение справки; Управление пользователями; Управление доступом; Управление процессами.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Раздел 3:&lt;/strong&gt; Настройка сети и SSH; Управление пакетами; Управление логами; Контейнеризация (Podman).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Сертификат:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Сертификат о прохождении курса «Системный администратор Linux с нуля»&#34; 
+               srcset=&#34;https://example.com/publications/selectel-linux-admin/featured_hu_5b7c312f66fe6658.webp 320w, https://example.com/publications/selectel-linux-admin/featured_hu_7626f77b8292411a.webp 480w, https://example.com/publications/selectel-linux-admin/featured_hu_da078fa1de3c4ca.webp 640w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://example.com/publications/selectel-linux-admin/featured_hu_5b7c312f66fe6658.webp&#34;
+               width=&#34;640&#34;
+               height=&#34;640&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
